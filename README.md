@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh903&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh903" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saurabh903" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh903?logo=twitter&style=for-the-badge" alt="saurabh903" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Saurabh903" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh903?logo=twitter&style=for-the-badge" alt="saurabh903" /></a> </p>
 
 - 🔭 I’m currently working on **Business Website**
 
