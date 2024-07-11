@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React , Django**
 
-- 👨‍💻 All of my projects are available at [https://psaurabh.netlify.app/](https://psaurabh.netlify.app/)
-
 - 💬 Ask me about **HTML , CSS , Java-Script , Python , Java , Figma**
 
 - 📫 How to reach me **saurabhprasad903@gmail.com**
